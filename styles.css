@@ -121,7 +121,7 @@ h1 {
   background-color: var(--primary-color);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   color: var(--accent-color);
   letter-spacing: 1px;
 }
