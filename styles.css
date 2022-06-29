@@ -119,11 +119,11 @@ h1 {
 
 .text-section {
   background-color: var(--primary-color);
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
   justify-content: flex-start;
   color: var(--accent-color);
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .title-section {
@@ -159,7 +159,7 @@ form {
   display: flex;
   flex-direction: column;
   margin-left: 80px;
-  margin-right: 80px;
+  margin-right: 50px;
 }
 
 .input-field {
